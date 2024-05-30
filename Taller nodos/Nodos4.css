@@ -1,0 +1,15 @@
+/* Estilos para la clase "destacado" */
+.destacado {
+    color: red; /* Cambia el color a rojo */
+    font-style: italic; /* Cambia la fuente a cursiva */
+}
+
+/* Estilos para la clase "cumplido" */
+.cumplido {
+    background-color: green; /* Color de fondo verde */
+}
+
+/* Estilos para la clase "fallido" */
+.fallido {
+    background-color: red; /* Color de fondo rojo */
+}
